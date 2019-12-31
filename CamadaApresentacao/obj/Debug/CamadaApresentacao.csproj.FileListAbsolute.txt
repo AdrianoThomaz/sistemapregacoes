@@ -1,0 +1,13 @@
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmPrograma.resources
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb

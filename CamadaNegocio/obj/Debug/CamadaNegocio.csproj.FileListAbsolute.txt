@@ -1,0 +1,9 @@
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\obj\Debug\CamadaNegocio.csprojAssemblyReference.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaNegocio\obj\Debug\CamadaNegocio.pdb

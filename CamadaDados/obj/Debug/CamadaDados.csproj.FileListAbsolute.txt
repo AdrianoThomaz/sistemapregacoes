@@ -1,0 +1,6 @@
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaDados\obj\Debug\CamadaDados.pdb
