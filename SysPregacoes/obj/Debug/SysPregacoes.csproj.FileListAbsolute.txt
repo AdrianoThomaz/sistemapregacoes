@@ -14,3 +14,19 @@ C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug
 C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaDados.dll
 C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaNegocio.pdb
 C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaDados.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\SysPregacoes.exe.config
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\SysPregacoes.exe
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaApresentacao.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaNegocio.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaDados.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaApresentacao.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaNegocio.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\Debug\CamadaDados.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.csprojAssemblyReference.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.Properties.Resources.resources
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.csproj.GenerateResource.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.csproj.CoreCompileInputs.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.csproj.CopyComplete
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.exe
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\Debug\SysPregacoes.pdb
