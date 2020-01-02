@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CamadaDados;
+﻿using CamadaDados;
 using System.Data;
 
 namespace CamadaNegocio
@@ -51,7 +46,7 @@ namespace CamadaNegocio
             DPrograma Obj = new CamadaDados.DPrograma();
             Obj.Codigo = codigo;
 
-            return Obj.Editar(Obj);
+            return Obj.Excluir(Obj);
         }
 
         // Metodo Mostrar
@@ -60,11 +55,11 @@ namespace CamadaNegocio
             return new DPrograma().Mostrar();
         }
 
-        // Metodo Buscar
-        public static DataTable BuscarNome(string testbuscar)
+        // Metodo Buscar Nome
+        public static DataTable BuscarNome(string testbusca)
         {
             DPrograma Obj = new DPrograma();
-            Obj.TextBusca = testbuscar;
+            Obj.TextBusca = testbusca;
             return Obj.BuscarNome(Obj);
         }
 

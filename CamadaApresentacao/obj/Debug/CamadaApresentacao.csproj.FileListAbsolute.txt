@@ -11,3 +11,86 @@ C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj
 C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
 C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
 C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmPrograma.resources
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\EnvDTE.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\stdole.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Pregacoes\SysPregacoes\CamadaApresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll

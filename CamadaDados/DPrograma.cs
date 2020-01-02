@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -152,21 +148,21 @@ namespace CamadaDados
 
                 SqlParameter ParDataCadastro = new SqlParameter();
                 ParDataCadastro.ParameterName = "@dataCadastro";
-                ParDataCadastro.SqlDbType = SqlDbType.VarChar;
-                ParDataCadastro.Size = 5;
+                ParDataCadastro.SqlDbType = SqlDbType.DateTime;
+                ParDataCadastro.Size = 10;
                 ParDataCadastro.Value = Programa.DataCadastro;
-                SqlCmd.Parameters.Add(DataCadastro);
+                SqlCmd.Parameters.Add(ParDataCadastro);
 
                 SqlParameter ParSintese = new SqlParameter();
                 ParSintese.ParameterName = "@sintese";
                 ParSintese.SqlDbType = SqlDbType.VarChar;
                 ParSintese.Size = 1000;
                 ParSintese.Value = Programa.Sintese;
-                SqlCmd.Parameters.Add(Sintese);
+                SqlCmd.Parameters.Add(ParSintese);
 
                 //Executar o comando
 
-                resp = SqlCmd.ExecuteNonQuery() == 1 ? "Ok" : "Registro não foi inserido";
+                resp = SqlCmd.ExecuteNonQuery() == 1 ? "OK" : "Registro não foi inserido";
             }
             catch (Exception ex)
             {
@@ -178,7 +174,6 @@ namespace CamadaDados
             }
             return resp;
         }
-
 
         //Método Editar
         public string Editar(DPrograma Programa)
@@ -218,19 +213,19 @@ namespace CamadaDados
 
                 SqlParameter ParDataCadastro = new SqlParameter();
                 ParDataCadastro.ParameterName = "@dataCadastro";
-                ParDataCadastro.SqlDbType = SqlDbType.VarChar;
+                ParDataCadastro.SqlDbType = SqlDbType.DateTime;
                 ParDataCadastro.Size = 5;
                 ParDataCadastro.Value = Programa.DataCadastro;
-                SqlCmd.Parameters.Add(DataCadastro);
+                SqlCmd.Parameters.Add(ParDataCadastro);
 
                 SqlParameter ParSintese = new SqlParameter();
                 ParSintese.ParameterName = "@sintese";
                 ParSintese.SqlDbType = SqlDbType.VarChar;
                 ParSintese.Size = 1000;
                 ParSintese.Value = Programa.Sintese;
-                SqlCmd.Parameters.Add(Sintese);
+                SqlCmd.Parameters.Add(ParSintese);
 
-                resp = SqlCmd.ExecuteNonQuery() == 1 ? "Ok" : "A Edição não foi feita.";
+                resp = SqlCmd.ExecuteNonQuery() == 1 ? "OK" : "A Edição não foi feita.";
             }
 
             catch (Exception ex)
@@ -267,9 +262,7 @@ namespace CamadaDados
                 ParCodigo.Value = Programa.Codigo;
                 SqlCmd.Parameters.Add(ParCodigo);
 
-                resp = SqlCmd.ExecuteNonQuery() == 1 ? "Ok" : "A exclusão não foi feita.";
-
-
+                resp = SqlCmd.ExecuteNonQuery() == 1 ? "OK" : "A exclusão não foi feita.";
             }
 
             catch (Exception ex)
@@ -306,7 +299,6 @@ namespace CamadaDados
             return DtResultado;
         }
 
-
         //Método Buscar Nome
         public DataTable BuscarNome(DPrograma Programa)
         {
@@ -319,8 +311,6 @@ namespace CamadaDados
                 SqlCmd.Connection = SqlCon;
                 SqlCmd.CommandText = "spbuscar_nome";
                 SqlCmd.CommandType = CommandType.StoredProcedure;
-                SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
-                SqlDat.Fill(DtResultado);
 
                 SqlParameter ParTextBuscar = new SqlParameter();
                 ParTextBuscar.ParameterName = "@textbuscar";
@@ -328,6 +318,9 @@ namespace CamadaDados
                 ParTextBuscar.Size = 100;
                 ParTextBuscar.Value = Programa.TextBusca;
                 SqlCmd.Parameters.Add(ParTextBuscar);
+
+                SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
+                SqlDat.Fill(DtResultado);
 
             }
             catch (Exception ex)
