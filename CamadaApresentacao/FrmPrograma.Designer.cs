@@ -45,6 +45,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtDuracao = new System.Windows.Forms.MaskedTextBox();
+            this.txtCodigo = new System.Windows.Forms.MaskedTextBox();
             this.txtDataCadastro = new System.Windows.Forms.MaskedTextBox();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnNovo = new System.Windows.Forms.Button();
@@ -60,8 +62,6 @@
             this.erroIcone = new System.Windows.Forms.ErrorProvider(this.components);
             this.tpMensagem = new System.Windows.Forms.ToolTip(this.components);
             this.label8 = new System.Windows.Forms.Label();
-            this.txtCodigo = new System.Windows.Forms.MaskedTextBox();
-            this.txtDuracao = new System.Windows.Forms.MaskedTextBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataLista)).BeginInit();
@@ -168,8 +168,9 @@
             this.btnImprimir.Name = "btnImprimir";
             this.btnImprimir.Size = new System.Drawing.Size(75, 23);
             this.btnImprimir.TabIndex = 4;
-            this.btnImprimir.Text = "Imprimir";
+            this.btnImprimir.Text = "Relatório";
             this.btnImprimir.UseVisualStyleBackColor = true;
+            this.btnImprimir.Click += new System.EventHandler(this.btnImprimir_Click);
             // 
             // btnDeletar
             // 
@@ -236,13 +237,38 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(10, 21);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(661, 379);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "PROGRAMAS";
+            // 
+            // txtDuracao
+            // 
+            this.txtDuracao.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDuracao.ForeColor = System.Drawing.Color.DarkBlue;
+            this.txtDuracao.Location = new System.Drawing.Point(588, 101);
+            this.txtDuracao.Mask = "00:00";
+            this.txtDuracao.Name = "txtDuracao";
+            this.txtDuracao.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.txtDuracao.Size = new System.Drawing.Size(67, 24);
+            this.txtDuracao.TabIndex = 28;
+            this.txtDuracao.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // txtCodigo
+            // 
+            this.txtCodigo.BackColor = System.Drawing.Color.Gainsboro;
+            this.txtCodigo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCodigo.ForeColor = System.Drawing.Color.DarkBlue;
+            this.txtCodigo.Location = new System.Drawing.Point(582, 46);
+            this.txtCodigo.Mask = "#####";
+            this.txtCodigo.Name = "txtCodigo";
+            this.txtCodigo.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.txtCodigo.Size = new System.Drawing.Size(73, 24);
+            this.txtCodigo.TabIndex = 27;
+            this.txtCodigo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtDataCadastro
             // 
@@ -343,11 +369,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(500, 101);
+            this.label3.Location = new System.Drawing.Point(466, 101);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(62, 17);
+            this.label3.Size = new System.Drawing.Size(116, 17);
             this.label3.TabIndex = 17;
-            this.label3.Text = "Duração";
+            this.label3.Text = "Duração (mm:ss)";
             // 
             // label2
             // 
@@ -387,31 +413,6 @@
             this.label8.Size = new System.Drawing.Size(110, 24);
             this.label8.TabIndex = 30;
             this.label8.Text = "Pregações";
-            // 
-            // txtCodigo
-            // 
-            this.txtCodigo.BackColor = System.Drawing.Color.Gainsboro;
-            this.txtCodigo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCodigo.ForeColor = System.Drawing.Color.DarkBlue;
-            this.txtCodigo.Location = new System.Drawing.Point(582, 46);
-            this.txtCodigo.Mask = "#####";
-            this.txtCodigo.Name = "txtCodigo";
-            this.txtCodigo.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.txtCodigo.Size = new System.Drawing.Size(73, 24);
-            this.txtCodigo.TabIndex = 27;
-            this.txtCodigo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // txtDuracao
-            // 
-            this.txtDuracao.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDuracao.ForeColor = System.Drawing.Color.DarkBlue;
-            this.txtDuracao.Location = new System.Drawing.Point(588, 101);
-            this.txtDuracao.Mask = "00:00";
-            this.txtDuracao.Name = "txtDuracao";
-            this.txtDuracao.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.txtDuracao.Size = new System.Drawing.Size(67, 24);
-            this.txtDuracao.TabIndex = 28;
-            this.txtDuracao.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // FrmPrograma
             // 

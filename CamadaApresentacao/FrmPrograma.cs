@@ -1,6 +1,7 @@
-﻿using System;
+﻿using CamadaNegocio;
+using CamadaApresentacao;
+using System;
 using System.Windows.Forms;
-using CamadaNegocio;
 
 namespace CamadaApresentacao
 {
@@ -101,9 +102,8 @@ namespace CamadaApresentacao
 
         private void FrmPrograma_Load(object sender, EventArgs e)
         {
-            
             //this.Top = 0;
-           // this.Left = 0;
+            // this.Left = 0;
             this.Mostrar();
             this.Habilitar(false);
             this.botoes();
@@ -130,7 +130,7 @@ namespace CamadaApresentacao
             this.Habilitar(true);
             this.txtAudio.Focus();
             this.txtCodigo.Enabled = false;
-            
+
         }
 
         private void btnSalvar_Click(object sender, EventArgs e)
@@ -138,10 +138,10 @@ namespace CamadaApresentacao
             try
             {
                 string resp = "";
-                if(this.txtAudio.Text == string.Empty)
+                if (this.txtAudio.Text == string.Empty)
                 {
                     MensagemErro("Preencha todos os campos");
-                    erroIcone.SetError(txtBuscar,"Insira o nome do audio");
+                    erroIcone.SetError(txtBuscar, "Insira o nome do audio");
                 }
                 else
                 {
@@ -155,10 +155,10 @@ namespace CamadaApresentacao
                     else
                     {
                         resp = NPrograma.Editar(Convert.ToInt32(
-                            this.txtCodigo.Text), 
-                            this.txtAudio.Text.Trim(), 
-                            this.txtDuracao.Text, 
-                            this.txtDataCadastro.Text, 
+                            this.txtCodigo.Text),
+                            this.txtAudio.Text.Trim(),
+                            this.txtDuracao.Text,
+                            this.txtDataCadastro.Text,
                             this.txtSintese.Text);
                     }
 
@@ -184,14 +184,15 @@ namespace CamadaApresentacao
                     this.Limpar();
                     this.Mostrar();
                 }
-            }catch( Exception ex)
+            }
+            catch (Exception ex)
             {
                 //detalhamento do erro
                 MessageBox.Show(ex.Message + ex.StackTrace);
             }
         }
 
-         private void dataLista_DoubleClick(object sender, EventArgs e)
+        private void dataLista_DoubleClick(object sender, EventArgs e)
         {
             this.txtCodigo.Text = Convert.ToString(this.dataLista.CurrentRow.Cells["codigo"].Value);
             this.txtAudio.Text = Convert.ToString(this.dataLista.CurrentRow.Cells["audio"].Value);
@@ -260,7 +261,7 @@ namespace CamadaApresentacao
                     string Cod;
                     string Resp = "";
 
-                    foreach(DataGridViewRow row in dataLista.Rows)
+                    foreach (DataGridViewRow row in dataLista.Rows)
                     {
                         if (Convert.ToBoolean(row.Cells[0].Value))
                         {
@@ -279,14 +280,22 @@ namespace CamadaApresentacao
                     }
                     this.Mostrar();
                 }
-            }catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 //detalhamento do erro
                 MessageBox.Show(ex.Message + ex.StackTrace);
             }
         }
 
+        private void btnImprimir_Click(object sender, EventArgs e)
+        {
+         //  this.reportViewer1.RefreshReport();
 
+           FrmRepPregacoes novo = new FrmRepPregacoes();
+           novo.Show();
+
+        }
     }
 }
 
