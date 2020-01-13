@@ -1,0 +1,401 @@
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe.config
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.SqlServer.Types.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\EnvDTE.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\stdole.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.MSXML.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll.config
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csprojAssemblyReference.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.Properties.Resources.resources
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.GenerateResource.cache
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.CopyComplete
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.exe
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Report1.rdlc
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Pregações.rdlc
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe.config
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.SqlServer.Types.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\EnvDTE.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\stdole.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.MSXML.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.pdb
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll.config
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.pdb
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.pdb
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csprojAssemblyReference.cache
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.Properties.Resources.resources
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.GenerateResource.cache
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.CopyComplete
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.exe
+C:\Users\amtho\Desktop\Pregacoes - Copia (2)\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Pregações.rdlc
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe.config
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.SqlServer.Types.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\EnvDTE.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\stdole.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.MSXML.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.pdb
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll.config
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.pdb
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.pdb
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csprojAssemblyReference.cache
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.Properties.Resources.resources
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.GenerateResource.cache
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.CopyComplete
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.exe
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.pdb
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Interop.WMPLib.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\AxInterop.WMPLib.dll
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.CoreCompileInputs.cache
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe.manifest
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.application
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.exe.manifest
+C:\Users\amtho\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.application
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Pregações.rdlc
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe.config
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe.manifest
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.application
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.exe
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\SysPregacoes.pdb
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Interop.WMPLib.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\AxInterop.WMPLib.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\EnvDTE.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\stdole.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\Microsoft.MSXML.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.pdb
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaApresentacao.dll.config
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaNegocio.pdb
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\CamadaDados.pdb
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\bin\x64\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csprojAssemblyReference.cache
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.Properties.Resources.resources
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.GenerateResource.cache
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.exe.manifest
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.application
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.csproj.CopyComplete
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.exe
+C:\Users\Religião de Deus\Desktop\Projeto Pregacoes\SysPregacoes\SysPregacoes\obj\x64\Release\SysPregacoes.pdb

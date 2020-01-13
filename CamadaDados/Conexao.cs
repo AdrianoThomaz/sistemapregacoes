@@ -6,7 +6,8 @@ namespace CamadaDados
 {
     class Conexao
     {
-      public static string Cn = "Data Source = DESKTOP-UMBSMV9\\SQLEXPRESS; Initial Catalog = dbpregacoes; Integrated Security=true";
-    //  public static string Cn = "Data Source = RELIGIAODEDEUS\\SQLEXPRESS; Initial Catalog = dbpregacoes; Integrated Security=true";
+        //public static string Cn = "Data Source = DESKTOP-UMBSMV9\\SQLEXPRESS; Initial Catalog = dbpregacoes; Integrated Security=true";
+        // public static string Cn = "Data Source = RELIGIAODEDEUS\\SQLEXPRESS; Initial Catalog = dbpregacoes; Integrated Security=true";
+    public static string Cn = "Data Source = .\\SQLEXPRESS; Initial Catalog = dbpregacoes; Integrated Security=true";
     }
 }

@@ -14,6 +14,7 @@ namespace CamadaDados
         private string _DataCadastro;
         private string _Sintese;
         private string _TextBusca;
+        
 
         // Codigo
         public int Codigo
@@ -280,6 +281,7 @@ namespace CamadaDados
         //Método Mostrar
         public DataTable Mostrar()
         {
+            string resp = "";
             DataTable DtResultado = new DataTable("Programa");
             SqlConnection SqlCon = new SqlConnection();
             try
@@ -295,6 +297,7 @@ namespace CamadaDados
             catch (Exception ex)
             {
                 DtResultado = null;
+                resp = ex.Message;
             }
             return DtResultado;
         }
@@ -302,6 +305,7 @@ namespace CamadaDados
         //Método Buscar Nome
         public DataTable BuscarNome(DPrograma Programa)
         {
+            string resp = "";
             DataTable DtResultado = new DataTable("Programa");
             SqlConnection SqlCon = new SqlConnection();
             try
@@ -321,11 +325,11 @@ namespace CamadaDados
 
                 SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
                 SqlDat.Fill(DtResultado);
-
             }
             catch (Exception ex)
             {
                 DtResultado = null;
+                resp = ex.Message;
             }
             return DtResultado;
         }

@@ -2,6 +2,7 @@
 using CamadaApresentacao;
 using System;
 using System.Windows.Forms;
+using System.IO;
 
 namespace CamadaApresentacao
 {
@@ -10,6 +11,7 @@ namespace CamadaApresentacao
         private bool eNovo = false;
         private bool eEditar = false;
         public DateTime hoje = DateTime.Today.Date; //data atual
+        WMPLib.IWMPPlaylist playlist;
 
         public FrmPrograma()
         {
@@ -290,10 +292,112 @@ namespace CamadaApresentacao
 
         private void btnImprimir_Click(object sender, EventArgs e)
         {
-         //  this.reportViewer1.RefreshReport();
+            //  this.reportViewer1.RefreshReport();
 
-           FrmRepPregacoes novo = new FrmRepPregacoes();
-           novo.Show();
+            FrmRepPregacoes novo = new FrmRepPregacoes();
+            novo.Show();
+
+        }
+
+        private void Sair_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void BtSair2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start(@"C:\Pregações Identificadas");
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            System.Diagnostics.Process.Start(@"C:\Pregações Identificadas\");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ofdAbrir.Title = "Abrir mídia";
+            //ofdAbrir.Filter = "Arquivo mp3|*.mp3";
+            if (ofdAbrir.ShowDialog() == DialogResult.OK)
+            {
+                playlist = Player.playlistCollection.newPlaylist("Lista");
+
+                foreach (var arquivo in ofdAbrir.FileNames)
+                {
+                    playlist.appendItem(Player.newMedia(arquivo));
+                    lstPlayList.Items.Add(arquivo);
+
+                    Player.currentPlaylist = playlist;
+                    Player.Ctlcontrols.play();
+
+                }
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (lstPlayList.Items.Count > 0)
+            {
+                sfdSalvar.Title = "Salvar PlayList";
+                sfdSalvar.Filter = "Arquivo texto|*.txt;";
+                if (sfdSalvar.ShowDialog() == DialogResult.OK)
+                {
+                    StreamWriter arquivo = new StreamWriter(sfdSalvar.FileName, false);
+                    for (int i = 0; i < lstPlayList.Items.Count; i++)
+                    {
+                        arquivo.WriteLine(lstPlayList.Items[i].ToString());
+                    }
+                    arquivo.Close();
+                }
+
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            lstPlayList.Items.Clear();
+            ofdAbrir.Title = "Abrir PlayList";
+            ofdAbrir.Filter = "Arquivo texto|*.txt";
+            ofdAbrir.Multiselect = false;
+            if (ofdAbrir.ShowDialog() == DialogResult.OK)
+            {
+                StreamReader arquivo = new StreamReader(ofdAbrir.FileName);
+                while (arquivo.Peek() != -1)
+                {
+                    lstPlayList.Items.Add(arquivo.ReadLine());
+                }
+                arquivo.Close();
+            }
+
+        }
+
+        private void lstPlayList_DoubleClick(object sender, EventArgs e)
+        {
+            if (lstPlayList.Items.Count > 0)
+            {
+                Player.URL = lstPlayList.SelectedItem.ToString(); ;
+                Player.Ctlcontrols.play();
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Player.Ctlcontrols.stop();
+            lstPlayList.Items.Clear();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
 
         }
     }

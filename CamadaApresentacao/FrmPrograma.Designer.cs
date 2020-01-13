@@ -29,11 +29,12 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPrograma));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.Sair = new System.Windows.Forms.Button();
             this.chkDeletar = new System.Windows.Forms.CheckBox();
             this.dataLista = new System.Windows.Forms.DataGridView();
             this.Deletar = new System.Windows.Forms.DataGridViewCheckBoxColumn();
@@ -45,6 +46,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.BtSair2 = new System.Windows.Forms.Button();
             this.txtDuracao = new System.Windows.Forms.MaskedTextBox();
             this.txtCodigo = new System.Windows.Forms.MaskedTextBox();
             this.txtDataCadastro = new System.Windows.Forms.MaskedTextBox();
@@ -59,21 +62,34 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.button2 = new System.Windows.Forms.Button();
             this.erroIcone = new System.Windows.Forms.ErrorProvider(this.components);
             this.tpMensagem = new System.Windows.Forms.ToolTip(this.components);
             this.label8 = new System.Windows.Forms.Label();
+            this.Player = new AxWMPLib.AxWindowsMediaPlayer();
+            this.lstPlayList = new System.Windows.Forms.ListBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.btnAbrir = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.ofdAbrir = new System.Windows.Forms.OpenFileDialog();
+            this.sfdSalvar = new System.Windows.Forms.SaveFileDialog();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataLista)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.groupBox1.SuspendLayout();
+            this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.erroIcone)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Player)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.HotTrack = true;
             this.tabControl1.Location = new System.Drawing.Point(2, 51);
             this.tabControl1.Name = "tabControl1";
@@ -83,6 +99,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.Sair);
             this.tabPage1.Controls.Add(this.chkDeletar);
             this.tabPage1.Controls.Add(this.dataLista);
             this.tabPage1.Controls.Add(this.LblTotal);
@@ -98,6 +115,17 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Consulta";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // Sair
+            // 
+            this.Sair.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Sair.Location = new System.Drawing.Point(610, 25);
+            this.Sair.Name = "Sair";
+            this.Sair.Size = new System.Drawing.Size(61, 23);
+            this.Sair.TabIndex = 31;
+            this.Sair.Text = "&Sair";
+            this.Sair.UseVisualStyleBackColor = true;
+            this.Sair.Click += new System.EventHandler(this.Sair_Click);
             // 
             // chkDeletar
             // 
@@ -115,25 +143,25 @@
             this.dataLista.AllowUserToAddRows = false;
             this.dataLista.AllowUserToDeleteRows = false;
             this.dataLista.AllowUserToOrderColumns = true;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataLista.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataLista.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.dataLista.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataLista.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Deletar});
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.DarkBlue;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataLista.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.DarkBlue;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataLista.DefaultCellStyle = dataGridViewCellStyle6;
             this.dataLista.Location = new System.Drawing.Point(3, 81);
             this.dataLista.MultiSelect = false;
             this.dataLista.Name = "dataLista";
@@ -164,9 +192,9 @@
             // 
             // btnImprimir
             // 
-            this.btnImprimir.Location = new System.Drawing.Point(590, 25);
+            this.btnImprimir.Location = new System.Drawing.Point(543, 25);
             this.btnImprimir.Name = "btnImprimir";
-            this.btnImprimir.Size = new System.Drawing.Size(75, 23);
+            this.btnImprimir.Size = new System.Drawing.Size(61, 23);
             this.btnImprimir.TabIndex = 4;
             this.btnImprimir.Text = "Relatório";
             this.btnImprimir.UseVisualStyleBackColor = true;
@@ -174,9 +202,9 @@
             // 
             // btnDeletar
             // 
-            this.btnDeletar.Location = new System.Drawing.Point(509, 25);
+            this.btnDeletar.Location = new System.Drawing.Point(476, 25);
             this.btnDeletar.Name = "btnDeletar";
-            this.btnDeletar.Size = new System.Drawing.Size(75, 23);
+            this.btnDeletar.Size = new System.Drawing.Size(61, 23);
             this.btnDeletar.TabIndex = 3;
             this.btnDeletar.Text = "Deletar";
             this.btnDeletar.UseVisualStyleBackColor = true;
@@ -184,9 +212,9 @@
             // 
             // btnBuscar
             // 
-            this.btnBuscar.Location = new System.Drawing.Point(429, 25);
+            this.btnBuscar.Location = new System.Drawing.Point(409, 25);
             this.btnBuscar.Name = "btnBuscar";
-            this.btnBuscar.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscar.Size = new System.Drawing.Size(61, 23);
             this.btnBuscar.TabIndex = 2;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
@@ -222,6 +250,8 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.button1);
+            this.groupBox1.Controls.Add(this.BtSair2);
             this.groupBox1.Controls.Add(this.txtDuracao);
             this.groupBox1.Controls.Add(this.txtCodigo);
             this.groupBox1.Controls.Add(this.txtDataCadastro);
@@ -244,6 +274,28 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "PROGRAMAS";
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(438, 339);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 34;
+            this.button1.Text = "&Áudios";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // BtSair2
+            // 
+            this.BtSair2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtSair2.Location = new System.Drawing.Point(519, 339);
+            this.BtSair2.Name = "BtSair2";
+            this.BtSair2.Size = new System.Drawing.Size(75, 23);
+            this.BtSair2.TabIndex = 33;
+            this.BtSair2.Text = "&Sair";
+            this.BtSair2.UseVisualStyleBackColor = true;
+            this.BtSair2.Click += new System.EventHandler(this.BtSair2_Click);
             // 
             // txtDuracao
             // 
@@ -285,7 +337,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(415, 340);
+            this.btnCancelar.Location = new System.Drawing.Point(357, 339);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
             this.btnCancelar.TabIndex = 26;
@@ -295,7 +347,7 @@
             // 
             // btnNovo
             // 
-            this.btnNovo.Location = new System.Drawing.Point(172, 340);
+            this.btnNovo.Location = new System.Drawing.Point(114, 339);
             this.btnNovo.Name = "btnNovo";
             this.btnNovo.Size = new System.Drawing.Size(75, 23);
             this.btnNovo.TabIndex = 25;
@@ -305,7 +357,7 @@
             // 
             // btnEditar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(334, 340);
+            this.btnEditar.Location = new System.Drawing.Point(276, 339);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(75, 23);
             this.btnEditar.TabIndex = 24;
@@ -315,7 +367,7 @@
             // 
             // btnSalvar
             // 
-            this.btnSalvar.Location = new System.Drawing.Point(253, 340);
+            this.btnSalvar.Location = new System.Drawing.Point(195, 339);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(75, 23);
             this.btnSalvar.TabIndex = 23;
@@ -395,6 +447,35 @@
             this.label1.TabIndex = 13;
             this.label1.Text = "Código";
             // 
+            // tabPage3
+            // 
+            this.tabPage3.Controls.Add(this.button6);
+            this.tabPage3.Controls.Add(this.button5);
+            this.tabPage3.Controls.Add(this.btnAbrir);
+            this.tabPage3.Controls.Add(this.button3);
+            this.tabPage3.Controls.Add(this.lstPlayList);
+            this.tabPage3.Controls.Add(this.Player);
+            this.tabPage3.Controls.Add(this.button2);
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(677, 400);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "Áudios MP3";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            this.tabPage3.Click += new System.EventHandler(this.tabPage3_Click);
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(525, 326);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(70, 58);
+            this.button2.TabIndex = 40;
+            this.button2.Text = "&Sair";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // erroIcone
             // 
             this.erroIcone.ContainerControl = this;
@@ -413,6 +494,78 @@
             this.label8.Size = new System.Drawing.Size(110, 24);
             this.label8.TabIndex = 30;
             this.label8.Text = "Pregações";
+            // 
+            // Player
+            // 
+            this.Player.Enabled = true;
+            this.Player.Location = new System.Drawing.Point(6, 6);
+            this.Player.Name = "Player";
+            this.Player.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("Player.OcxState")));
+            this.Player.Size = new System.Drawing.Size(665, 164);
+            this.Player.TabIndex = 41;
+            // 
+            // lstPlayList
+            // 
+            this.lstPlayList.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lstPlayList.FormattingEnabled = true;
+            this.lstPlayList.ItemHeight = 18;
+            this.lstPlayList.Location = new System.Drawing.Point(6, 182);
+            this.lstPlayList.Name = "lstPlayList";
+            this.lstPlayList.Size = new System.Drawing.Size(513, 202);
+            this.lstPlayList.TabIndex = 42;
+            this.lstPlayList.DoubleClick += new System.EventHandler(this.lstPlayList_DoubleClick);
+            // 
+            // button3
+            // 
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(601, 182);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(70, 58);
+            this.button3.TabIndex = 43;
+            this.button3.Text = "&Carregar";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // btnAbrir
+            // 
+            this.btnAbrir.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAbrir.Location = new System.Drawing.Point(525, 182);
+            this.btnAbrir.Name = "btnAbrir";
+            this.btnAbrir.Size = new System.Drawing.Size(70, 58);
+            this.btnAbrir.TabIndex = 44;
+            this.btnAbrir.Text = "&Abrir";
+            this.btnAbrir.UseVisualStyleBackColor = true;
+            this.btnAbrir.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Location = new System.Drawing.Point(525, 254);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(70, 58);
+            this.button5.TabIndex = 45;
+            this.button5.Text = "&Salvar";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // button6
+            // 
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.Location = new System.Drawing.Point(601, 254);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(70, 58);
+            this.button6.TabIndex = 46;
+            this.button6.Text = "&Limpar";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // ofdAbrir
+            // 
+            this.ofdAbrir.FileName = "ofdAbrir";
+            // 
+            // sfdSalvar
+            // 
+            this.sfdSalvar.FileName = "sfdSalvar";
             // 
             // FrmPrograma
             // 
@@ -436,7 +589,9 @@
             this.tabPage2.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.tabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.erroIcone)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Player)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -446,17 +601,21 @@
 
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.CheckBox chkDeletar;
         private System.Windows.Forms.DataGridView dataLista;
         private System.Windows.Forms.DataGridViewCheckBoxColumn Deletar;
         private System.Windows.Forms.Label LblTotal;
-        private System.Windows.Forms.Button btnImprimir;
-        private System.Windows.Forms.Button btnDeletar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.ErrorProvider erroIcone;
+        private System.Windows.Forms.ToolTip tpMensagem;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button Sair;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.MaskedTextBox txtDuracao;
+        private System.Windows.Forms.MaskedTextBox txtCodigo;
+        private System.Windows.Forms.MaskedTextBox txtDataCadastro;
         private System.Windows.Forms.Button btnCancelar;
         private System.Windows.Forms.Button btnNovo;
         private System.Windows.Forms.Button btnEditar;
@@ -468,11 +627,20 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ErrorProvider erroIcone;
-        private System.Windows.Forms.ToolTip tpMensagem;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.MaskedTextBox txtDataCadastro;
-        private System.Windows.Forms.MaskedTextBox txtDuracao;
-        private System.Windows.Forms.MaskedTextBox txtCodigo;
+        private System.Windows.Forms.Button BtSair2;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.CheckBox chkDeletar;
+        private System.Windows.Forms.Button btnImprimir;
+        private System.Windows.Forms.Button btnDeletar;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnAbrir;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ListBox lstPlayList;
+        private AxWMPLib.AxWindowsMediaPlayer Player;
+        private System.Windows.Forms.OpenFileDialog ofdAbrir;
+        private System.Windows.Forms.SaveFileDialog sfdSalvar;
     }
 }

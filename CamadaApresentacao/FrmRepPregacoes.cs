@@ -21,7 +21,6 @@ namespace CamadaApresentacao
         {
             // TODO: esta linha de código carrega dados na tabela 'dbpregacoesDataSet.programa'. Você pode movê-la ou removê-la conforme necessário.
             this.programaTableAdapter.Fill(this.dbpregacoesDataSet.programa);
-
             this.reportViewer1.RefreshReport();
         }
     }
